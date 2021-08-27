@@ -1,0 +1,27 @@
+#demo {
+  background-color: #eaf6f6;
+  max-width: 70vw;
+  max-height: 80vh;
+  margin: 0 0 0 10vw;
+  color: black;
+}
+#content {
+  margin: 5vw 2vw 5vw 5vw;
+  height: 10vh;
+  width: 60vw;
+  border: double;
+}
+#button {
+  height: 5vh;
+  width: 10vw;
+  position: absolute;
+  margin-top: 7vh;
+  margin-left: 3vw;
+  color: antiquewhite;
+  background-color: blueviolet;
+}
+.tie {
+  font-weight: bold;
+  color: #66bfbf;
+  font: sans-serif;
+}
